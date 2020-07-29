@@ -6,3 +6,4 @@ while (true) {
         alert("不正解です！");
     }
 }
+
